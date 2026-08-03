@@ -442,3 +442,8 @@ Python fournit l'application.
 Le volume donne accès aux données réelles présentes sur la machine.
 
 Le serveur photo devient ainsi plus facilement **portable, reproductible et déployable**, tout en conservant les photographies indépendamment du conteneur.
+
+## Remerciements
+
+La rédaction de ce README en français a été réalisée par **ChatGPT (OpenAI)** à partir de mon projet. J'ai relu, validé et adapté son contenu avant sa publication sur GitHub.
+
