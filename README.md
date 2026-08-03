@@ -1,5 +1,3 @@
-# dockerizing-a-python-photo-gallery
-
 # 🐳 Conteneurisation avec Docker d'un serveur de galerie photo Python
 
 Ce projet présente la conteneurisation avec **Docker** d'un serveur de galerie photo écrit en Python.
