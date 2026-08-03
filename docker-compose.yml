@@ -1,0 +1,10 @@
+services:
+  galerie:
+    build: .
+    ports:
+      - "9000:9000"
+    volumes:
+      - /home/philippe86220/Images/Photos:/photos
+    environment:
+      - DOSSIER_PHOTOS=/photos
+    restart: unless-stopped
